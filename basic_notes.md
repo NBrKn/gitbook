@@ -109,7 +109,7 @@ To checkout
 
 ### Aliases
 Common
-```
+```bash
     $ git config --global alias.co checkout
     $ git config --global alias.br branch
     $ git config --global alias.ci commit
